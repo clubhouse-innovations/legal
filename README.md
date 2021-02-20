@@ -1,2 +1,3 @@
-# legal
-To fulfill app store requirements
+# Legal
+* Terms of Service
+* Privacy Policy
